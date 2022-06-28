@@ -1,7 +1,7 @@
-# MAİL GONDERME
+# SENDİNG MAİL
 
-smtp modülü ile mail gönderme
+sending mail with SMTP module
 
-kullandığımızı programlama dili **python**
+we used *python* as a programming language
 
-[smtp library hakkında detaylı bilgi](https://docs.python.org/2/library/smtplib.html)
+[information about **smtp** library](https://docs.python.org/2/library/smtplib.html)
